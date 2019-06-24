@@ -1,5 +1,6 @@
 import React from 'react';
 
+// passing in props to have them available on movie component //
 const MovieCard = props => {
     const { title, director, metascore, stars } = props.movie;
   return  ( 
