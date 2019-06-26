@@ -2,6 +2,8 @@
 
 Topics:
 
+Working.
+
 * React Router
 * Using Link and NavLink to navigate to specific routes
 * Passing Route Parameters
@@ -21,10 +23,10 @@ Topics:
 
 ### Part 1:
 
-* Wrap your app with the router.
+* Wrap your app with the router. - DONE
 * Inside your App file add two routes.
-  * one route for `/` that loads the `MovieList` component.
-  * one route that will take an `id` parameter after`/movies/` (ex: `/movies/2`, `/movies/3` where the id is dynamic). This route should load the `Movie` component.
+  * one route for `/` that loads the `MovieList` component. - DONE
+  * one route that will take an `id` parameter after`/movies/` (ex: `/movies/2`, `/movies/3` where the id is dynamic). This route should load the `Movie` component. 
 
 ### Part 2:
 
